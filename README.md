@@ -2,7 +2,6 @@
 
 A stock simulation website for Waves '16
 
----
 
 # Features wanted
 
@@ -17,7 +16,6 @@ A stock simulation website for Waves '16
 * Help and instructions page - Option to ask questions
 * Autobackup of Database
 
----
 
 # Things to learn
 
